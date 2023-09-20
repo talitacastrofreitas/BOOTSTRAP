@@ -1,0 +1,23 @@
+.h400{
+    height: 400px;
+}
+
+.h100{
+    height: 100px;
+}
+
+.row{
+    height: 200px;
+    background-color: aliceblue;
+}
+.col-3{
+    background-color: antiquewhite;
+    padding: 20px;
+    border: solid 1px black;
+}
+
+img{
+    width:300px;
+    height: 20px;
+}
+
